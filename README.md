@@ -1,3 +1,6 @@
+![Screenshot 2025-04-15 110020](https://github.com/user-attachments/assets/8a89b115-b0e1-4c46-9d69-bad8a2094a32)
+
+
 ## 📌 Project Description: Breast Cancer Classification using ML Pipeline<br>
 
 This project demonstrates a comprehensive machine learning pipeline for binary classification of breast tumors (benign vs malignant) using the **Breast Cancer Wisconsin (Diagnostic)** dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)).<br>
